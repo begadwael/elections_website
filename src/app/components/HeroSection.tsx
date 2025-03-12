@@ -200,7 +200,7 @@ export default function HeroSection() {
           variants={fadeInUp}
           className="text-4xl italic text-white/80 mb-8"
         >
-          "For Students, By Students"
+          &quotFor Students, By Students&quot
         </motion.p>
 
         {/* Call to Action */}

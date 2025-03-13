@@ -39,10 +39,11 @@ const visionItems = [
     imgSrc: "img/paw-prints.png",
   },
   {
-    title: "Support for Department Clubs",
-    text: `Strengthening department clubs by providing more resources and structured support,
-     to help them grow and provide more opportunities for students to engage with their field of study.`,
-    imgSrc: "img/clubs.png",
+    title: "Expanding Cultural Clubs",
+    text: `Encouraging the creation of new cultural clubs by providing resources, guidance, and structured support. 
+    This initiative aims to celebrate diversity, foster inclusivity,
+     and give students more opportunities to explore and share their cultural identities on campus`,
+    imgSrc: "img/clubs.JPG",
   },
   {
     title: "Reforms in SG",

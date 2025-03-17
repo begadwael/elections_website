@@ -15,8 +15,8 @@ const visionItems = [
   },
   {
     title: "Improved Club efficiency",
-    text: `We've identified delays in event approvals, reimbursements, and club-SG communication. We plan to implement a structured approval system, 
-    clearer communication channels, and a digital platform for real-time tracking to make the process faster and more transparent.`,
+    text: `We've identified delays in event approvals, reimbursements, and club-SG communication. We plan to improve to approval system, 
+    using clearer communication channels, applying some reforms, and a digital platform for real-time tracking to make the process faster and more transparent.`,
     imgSrc: "img/club-efficiency.JPG",
   },
   {

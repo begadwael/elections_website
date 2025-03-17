@@ -64,7 +64,7 @@ export default function HelpUsSection() {
                   <path d="M12 5l7 7-7 7" />
                 </svg>
               </span>
-              <span>Spread the word</span>
+              <span>Vote begad & Mariia</span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-[#F76902]">
@@ -82,7 +82,7 @@ export default function HelpUsSection() {
                   <path d="M12 5l7 7-7 7" />
                 </svg>
               </span>
-              <span>Use #elections</span>
+              <span>Spread the word</span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-[#F76902]">
@@ -119,6 +119,7 @@ export default function HelpUsSection() {
                 >
                   @bigo.wael
                 </a>
+                {" "}in your stories
               </span>
             </li>
           </ul>

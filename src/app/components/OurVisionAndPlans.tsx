@@ -2,16 +2,9 @@ import Image from "next/image";
 
 const visionItems = [
   {
-    title: "First year ambassador program",
-    text: `Creating a program tailored to first-year students to help them be a part of our community,
-     by assigning them student mentors, & creating first-year focused information sessions and events, to make sure our new faces feel at home.`,
-    imgSrc: "img/First-year-ambassador-program.png",
-  },
-  {
-    title: "RIT Escape Room",
-    text: `A fully interactive, university-themed escape room where students work in teams to solve puzzles, crack codes, and uncover secrets to “escape” within a set time.
-     Each escape scenario could be based on RIT’s history, culture, or even a specific department, making it a fun and engaging way for students to learn more about their university and bond with their peers.`,
-    imgSrc: "img/escape-room.webp",
+    title: "More study & common space",
+    text: `Creating more study and common spaces on campus, such as a dedicated study room, a gaming room, or a lounge area, to provide students with more options to relax, socialize, and work on projects outside of their dorms or classrooms. We have those on campus, it's just not enough.`,
+    imgSrc: "img/space.JPG",
   },
   {
     title: "Improved Club efficiency",
@@ -20,9 +13,16 @@ const visionItems = [
     imgSrc: "img/club-efficiency.JPG",
   },
   {
-    title: "More study & common space",
-    text: `Creating more study and common spaces on campus, such as a dedicated study room, a gaming room, or a lounge area, to provide students with more options to relax, socialize, and work on projects outside of their dorms or classrooms. We have those on campus, it's just not enough.`,
-    imgSrc: "img/space.JPG",
+    title: "RIT Escape Room",
+    text: `A fully interactive, university-themed escape room where students work in teams to solve puzzles, crack codes, and uncover secrets to “escape” within a set time.
+     Each escape scenario could be based on RIT’s history, culture, or even a specific department, making it a fun and engaging way for students to learn more about their university and bond with their peers.`,
+    imgSrc: "img/escape-room.webp",
+  },
+  {
+    title: "First year ambassador program",
+    text: `Creating a program tailored to first-year students to help them be a part of our community,
+     by assigning them student mentors, & creating first-year focused information sessions and events, to make sure our new faces feel at home.`,
+    imgSrc: "img/First-year-ambassador-program.png",
   },
   {
     title: "Rebranding Social Platforms",

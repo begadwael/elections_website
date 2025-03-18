@@ -64,7 +64,7 @@ export default function HelpUsSection() {
                   <path d="M12 5l7 7-7 7" />
                 </svg>
               </span>
-              <span>Vote begad & Mariia</span>
+              <span>Vote Begad & Mariia</span>
             </li>
             <li className="flex items-center gap-2">
               <span className="text-[#F76902]">
